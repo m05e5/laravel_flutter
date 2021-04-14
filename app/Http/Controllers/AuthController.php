@@ -6,6 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 use App\Http\Requests\RegisterAuthRequests;
 use App\Http\Resources\UserResource;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 use Tymon\JWTAuth\Facades\JWTAuth;
 use Tymon\JWTAuth\Exceptions\JWTException;
 
@@ -29,6 +31,7 @@ class AuthController extends Controller
         $user->filiere = $request->filiere;
         $user->save();
 
+
         if($this->loginAfterSignUp){
             return $this->login($request);
         }
@@ -39,13 +42,17 @@ class AuthController extends Controller
         ], 200);
     }
 
+    public function show(){
+        $myId = Auth::user();
+    }
+
     public function login(Request $request)
     {
         $input = $request->only('matricule', 'password');
 
         $jwt_token = null;
         if(!$jwt_token = JWTAuth::attempt($input)){
-            dd(JWTAuth::attempt($input));
+
             return response()->json([
                 'status'=>'invalid_credentials',
                 'message' => 'the informations you entered are not valide.',
@@ -55,6 +62,7 @@ class AuthController extends Controller
         return response()->json([
             'status' => 'ok',
             'token' => $jwt_token,
+            'data' => Auth::user()
         ]);
     }
 
