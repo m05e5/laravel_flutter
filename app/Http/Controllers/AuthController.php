@@ -43,7 +43,7 @@ class AuthController extends Controller
     }
 
     public function show(){
-        $myId = Auth::user();
+        return Auth::user();
     }
 
     public function login(Request $request)

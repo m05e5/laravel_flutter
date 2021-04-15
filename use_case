@@ -1,0 +1,84 @@
+cas dutilisation
+-login
+    {
+        -matricule
+        -password
+    }
+-register
+    {
+        -pic(optional)***************
+        -first_name
+        -last_name
+        -email
+        -matricule
+        -password
+        -filiere
+
+        *interests
+    }
+-log out
+-view posts
+    {
+        -title
+        -description
+        -tags
+
+
+        *poster_id
+    }
+-view post details
+    {
+        -title
+        -description
+        -image
+        -tags
+        -poster pic
+        -poster name
+
+    }
+-create post
+    {
+        -pic(optional)
+        -title
+        -description
+        - tag
+    }
+-answer/comment posts
+
+
+-view my account details
+    {
+        -pic(optional)***************
+        -first_name
+        -last_name
+        -email
+        -matricule
+        -password
+        -filiere
+    }
+-sort posts
+    {
+        -tag
+
+    }
+
+-search post
+    {
+        -name
+        -tag
+    }
+-view notifications
+    {
+        ********
+    }
+-edit my account
+    {
+        ********                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    }
+
+
+
+
+
+----------------------------------------------optional-------------------------------------------
+-like post
