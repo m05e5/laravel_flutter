@@ -45,7 +45,7 @@ class AuthController extends Controller
 
         $jwt_token = null;
         if(!$jwt_token = JWTAuth::attempt($input)){
-            dd(JWTAuth::attempt($input));
+            
             return response()->json([
                 'status'=>'invalid_credentials',
                 'message' => 'the informations you entered are not valide.',
