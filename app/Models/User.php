@@ -66,4 +66,15 @@ class User extends Authenticatable implements JWTSubject
     {
         return $this->hasMany(Tag::class, 'user_with_tags');
     }
+
+    const STATUS_MESSAGE = [
+        '200' => 'Request_Successfull',
+        '201' => 'Created_Successfully',
+        '201B' => 'Updated_Successfully',
+        '204' => 'No_Content!!!',
+        '400' => 'Invalide_data',
+        '401' => 'Unautorised_Request',
+        '404' => 'Not_found',
+        '500' => 'Something_Went_Wrong !!!',
+    ];
 }

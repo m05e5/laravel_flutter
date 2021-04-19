@@ -103,5 +103,42 @@ class AuthController extends Controller
         );
     }
 
+    /**
+     * Create a new Array for the response instance.
+     *
+     * @param string $message
+     * @param mixed $issues
+     * @param mixed $data
+     * @return array
+     */
+    static function buildResponseDataArray($message, $issues, $data)
+    {
+        //TODO : maybe add the token tyme in data (Bearer)
+        return ["message" => $message, "issues" => $issues, "data" => $data];
+    }
+
+    const STATUS_CODES = [
+        'response_success' => [
+            'ok' => 200,
+            'created' => 201,
+            'accepted' => 202,
+            'no_content' => 204,
+            'reset_content' => 205
+        ],
+        'response_client_errors' => [
+            'bad_request' => 400,
+            'unauthorized' => 401,
+            'forbiden' => 403,
+            'not_found' => 404,
+            'not_allowed' => 405,
+            'request_time_out' => 408,
+        ],
+        'response_server_errors' => [
+            'internal_server_error' => 500,
+            'not_implemented' => 501
+        ]
+
+    ];
+
 
 }

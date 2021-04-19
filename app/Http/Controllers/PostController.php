@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Resources\PostResource;
 use Exception;
 use Illuminate\Http\Request;
 use App\Models\Post;
+use Illuminate\Support\Facades\Auth;
 
 class PostController extends Controller
 {
@@ -16,13 +18,22 @@ class PostController extends Controller
     public function index()
     {
         try {
-            if($userConsultPosts = Post::get()){
-                return Response()->json(
-                    
-                );
+            if ($posts = Post::get()) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => PostResource::collection($posts)
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null
+                ], 204);
             }
         } catch (Exception $e) {
-            //throw $th;
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
         }
     }
 
@@ -44,7 +55,23 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        try {
+            $post = new Post();
+            $post->user_id = Auth::id();
+            $post->title = $request->title;
+            $post->description = $request->description;
+            $post->imgUrl = $request->imgUrl;
+            $post->save();
+            return Response()->json([
+                'status' => 'created',
+                'data' => null,
+            ], 201);
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**
@@ -55,7 +82,24 @@ class PostController extends Controller
      */
     public function show($id)
     {
-        //
+        try {
+            if ($post = Post::findOrFail($id)) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => PostResource::collection($post),
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null,
+                ], 204);
+            }
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**
@@ -78,7 +122,22 @@ class PostController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        try {
+            $post = Post::findOrFail($id);
+            $post->title = $request->title;
+            $post->description = $request->description;
+            $post->imgUrl = $request->imgUrl;
+            $post->save();
+            return Response()->json([
+                'status' => 'Updated',
+                'data' => null,
+            ], 201);
+        }  catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**

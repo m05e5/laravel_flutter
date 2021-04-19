@@ -14,6 +14,7 @@ class post extends Model
         'title',
         'description',
         'imgUrl',
+        'is_resolved'
     ];
 
     public function tag()
