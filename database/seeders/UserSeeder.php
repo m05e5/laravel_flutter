@@ -17,7 +17,7 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->insert([
             'name' => 'Caleb Moses',
-            'pseudo' => 'moses',
+          //  'pseudo' => 'moses',
             'email' => 'calebmoses1111@gmail.com',
             'matricule' => '18i00933',
             'password' => Hash::make('12345678'),
@@ -30,7 +30,7 @@ class UserSeeder extends Seeder
 
         DB::table('users')->insert([
             'name' => 'Asuna Yuuki',
-            'pseudo' => 'yuki',
+        //    'pseudo' => 'yuki',
             'email' => 'asunayuki@gmail.com',
             'matricule' => '18i00934',
             'password' => Hash::make('12345678'),
