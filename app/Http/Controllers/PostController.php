@@ -37,15 +37,6 @@ class PostController extends Controller
         }
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
-    }
 
     /**
      * Store a newly created resource in storage.
@@ -102,16 +93,6 @@ class PostController extends Controller
         }
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function edit($id)
-    {
-        //
-    }
 
     /**
      * Update the specified resource in storage.
@@ -127,12 +108,13 @@ class PostController extends Controller
             $post->title = $request->title;
             $post->description = $request->description;
             $post->imgUrl = $request->imgUrl;
+            $post->is_resolved = $request->is_resolved;
             $post->save();
             return Response()->json([
                 'status' => 'Updated',
                 'data' => null,
             ], 201);
-        }  catch (Exception $e) {
+        } catch (Exception $e) {
             return Response()->json([
                 'status' => 'internal_server_error',
                 'data' => $e->getMessage(),
@@ -148,6 +130,18 @@ class PostController extends Controller
      */
     public function destroy($id)
     {
-        //
+        try {
+            $post = Post::findOrFail($id);
+            $post->delete();
+            return Response()->json([
+                'status' => 'ok',
+                'data' => null,
+            ], 200);
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 }

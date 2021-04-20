@@ -2,7 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Resources\PostWithTagResource;
+use Exception;
 use Illuminate\Http\Request;
+use App\Models\postWithTag;
+use Illuminate\Support\Facades\Auth;
 
 class PostWithTagController extends Controller
 {
@@ -13,7 +17,24 @@ class PostWithTagController extends Controller
      */
     public function index()
     {
-        //
+        try {
+            if ($postWithTag = PostWithTag::get()) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => PostWithTagResource::collection($postWithTag)
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null
+                ], 204);
+            }
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**
@@ -34,7 +55,25 @@ class PostWithTagController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        try {
+
+            for ($i=0; $i < count($request->tag_id[]); $i++) {
+                $postWithTag = new postWithTag();
+                $postWithTag->post_id = $request->post_id;
+                $postWithTag->tag_id = $request->tag_id[$i];
+                $postWithTag->save();
+                return Response()->json([
+                    'status' => 'created',
+                    'data' => $postWithTag,
+                ], 201);
+            }
+
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**

@@ -2,13 +2,14 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\TagResource;
+use App\Http\Resources\CommentResource;
 use Exception;
 use Illuminate\Http\Request;
-use App\Models\Tag;
+use App\Models\Comment;
 use Illuminate\Support\Facades\Auth;
 
-class TagController extends Controller
+
+class CommentController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,10 +19,10 @@ class TagController extends Controller
     public function index()
     {
         try {
-            if ($tags = Tag::all()) {
+            if ($comments = Comment::get()) {
                 return Response()->json([
                     'status' => 'ok',
-                    'data' => TagResource::collection($tags)
+                    'data' => CommentResource::collection($comments)
                 ], 200);
             } else {
                 return Response()->json([
@@ -37,6 +38,15 @@ class TagController extends Controller
         }
     }
 
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
 
     /**
      * Store a newly created resource in storage.
@@ -47,10 +57,11 @@ class TagController extends Controller
     public function store(Request $request)
     {
         try {
-            $tag = new Tag();
-            $tag->name = $request->name;
-            $tag->description = $request->description;
-            $tag->save();
+            $comment = new Comment();
+            $comment->user_id = Auth::id();
+            $comment->post_id = $request->post_id;
+            $comment->content = $request->content;
+            $comment->save();
             return Response()->json([
                 'status' => 'created',
                 'data' => null,
@@ -72,10 +83,10 @@ class TagController extends Controller
     public function show($id)
     {
         try {
-            if ($tag = Tag::findOrFail($id)) {
+            if ($comment = Comment::findOrFail($id)) {
                 return Response()->json([
                     'status' => 'ok',
-                    'data' => TagResource::collection($tag),
+                    'data' => CommentResource::collection($comment),
                 ], 200);
             } else {
                 return Response()->json([
@@ -91,6 +102,16 @@ class TagController extends Controller
         }
     }
 
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
 
     /**
      * Update the specified resource in storage.
@@ -102,10 +123,11 @@ class TagController extends Controller
     public function update(Request $request, $id)
     {
         try {
-            $tag = Tag::findOrFail($id);
-            $tag->name = $request->name;
-            $tag->description = $request->description;
-            $tag->save();
+            $comment = Comment::findOrFail($id);
+            $comment->user_id = Auth::id();
+            $comment->post_id = $request->post_id;
+            $comment->content = $request->content; 
+            $comment->save();
             return Response()->json([
                 'status' => 'Updated',
                 'data' => null,
@@ -127,8 +149,8 @@ class TagController extends Controller
     public function destroy($id)
     {
         try {
-            $tag = Tag::findOrFail($id);
-            $tag->delete();
+            $comment = Comment::findOrFail($id);
+            $comment->delete();
             return Response()->json([
                 'status' => 'ok',
                 'data' => null,

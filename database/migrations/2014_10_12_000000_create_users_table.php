@@ -19,7 +19,7 @@ class CreateUsersTable extends Migration
             // $table->string('pseudo');
             $table->string('email')->nullable();
             $table->string('matricule')->unique();
-            $table->string('role')->default('student');
+            $table->enum('role',['student', 'teacher'])->default('student');
             $table->string('password');
             $table->string('filiere');
             $table->rememberToken();

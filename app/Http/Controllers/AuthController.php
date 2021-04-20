@@ -94,6 +94,7 @@ class AuthController extends Controller
         return response()->json(['user'=>$user]);
     }
 
+
     protected function jsonResponse($data, $code = 200)
     {
         return response()->json($data, $code,
