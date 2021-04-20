@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Auth;
 
 class UserWithTagController extends Controller
 {
-     /**
+    /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
@@ -52,13 +52,11 @@ class UserWithTagController extends Controller
                 $userWithTag->user_id = Auth::id();
                 $userWithTag->tag_id = $tags;
                 $userWithTag->save();
-
             }
             return Response()->json([
                 'status' => 'created',
                 'data' => $userWithTag,
             ], 201);
-
         } catch (Exception $e) {
             return Response()->json([
                 'status' => 'internal_server_error',
