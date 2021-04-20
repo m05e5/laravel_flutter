@@ -50,6 +50,7 @@ class TagController extends Controller
             $tag = new Tag();
             $tag->name = $request->name;
             $tag->description = $request->description;
+            $tag->departement_id = $request->departement_id;
             $tag->save();
             return Response()->json([
                 'status' => 'created',
@@ -105,6 +106,7 @@ class TagController extends Controller
             $tag = Tag::findOrFail($id);
             $tag->name = $request->name;
             $tag->description = $request->description;
+            $tag->departement_id = $request->departement_id;
             $tag->save();
             return Response()->json([
                 'status' => 'Updated',

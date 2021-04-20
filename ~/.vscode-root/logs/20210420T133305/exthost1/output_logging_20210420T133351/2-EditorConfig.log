@@ -1,0 +1,408 @@
+Initializing document watcher...
+laravel_flutter/database/seeders/PostSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/PostSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_092813_create_posts_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_092813_create_posts_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/PostSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/PostSeeder.php: Using EditorConfig core...
+database/seeders/PostSeeder.php: setEndOfLine(LF)
+database/seeders/PostSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/PostSeeder.php: Using EditorConfig core...
+database/seeders/PostSeeder.php: setEndOfLine(LF)
+database/seeders/PostSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/PostSeeder.php: Using EditorConfig core...
+database/seeders/PostSeeder.php: setEndOfLine(LF)
+database/seeders/PostSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093111_create_user_with_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: Using EditorConfig core...
+database/migrations/2021_04_20_130040_create_departements_table.php: setEndOfLine(LF)
+database/migrations/2021_04_20_130040_create_departements_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_093247_create_post_with_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/PostSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DepartementSeeder.php: Using EditorConfig core...
+database/seeders/DepartementSeeder.php: setEndOfLine(LF)
+database/seeders/DepartementSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Tag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/PostWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Tag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: Using EditorConfig core...
+app/Models/Departement.php: setEndOfLine(LF)
+app/Models/Departement.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Departement.php: Using EditorConfig core...
+app/Models/Departement.php: setEndOfLine(LF)
+app/Models/Departement.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: Using EditorConfig core...
+app/Models/Departement.php: setEndOfLine(LF)
+app/Models/Departement.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: Using EditorConfig core...
+database/seeders/DatabaseSeeder.php: setEndOfLine(LF)
+database/seeders/DatabaseSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: Using EditorConfig core...
+database/seeders/DatabaseSeeder.php: setEndOfLine(LF)
+database/seeders/DatabaseSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093111_create_user_with_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_093011_create_tags_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_093011_create_tags_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_093011_create_tags_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_093011_create_tags_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_093011_create_tags_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_093011_create_tags_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_093011_create_tags_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_093011_create_tags_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_093011_create_tags_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_093011_create_tags_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_093011_create_tags_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2013_04_20_130040_create_departements_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: Using EditorConfig core...
+database/seeders/DatabaseSeeder.php: setEndOfLine(LF)
+database/seeders/DatabaseSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: Using EditorConfig core...
+database/seeders/DatabaseSeeder.php: setEndOfLine(LF)
+database/seeders/DatabaseSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: Using EditorConfig core...
+database/seeders/DatabaseSeeder.php: setEndOfLine(LF)
+database/seeders/DatabaseSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DatabaseSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/DepartementSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: Using EditorConfig core...
+database/seeders/TagSeeder.php: setEndOfLine(LF)
+database/seeders/TagSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/TagSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Tag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Tag.php: Using EditorConfig core...
+app/Models/Tag.php: setEndOfLine(LF)
+app/Models/Tag.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Tag.php: Using EditorConfig core...
+app/Models/Tag.php: setEndOfLine(LF)
+app/Models/Tag.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Tag.php: Using EditorConfig core...
+app/Models/Tag.php: setEndOfLine(LF)
+app/Models/Tag.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/Tag.php: Using EditorConfig core...
+app/Models/Tag.php: setEndOfLine(LF)
+app/Models/Tag.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/TagResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/TagResource.php: Using EditorConfig core...
+app/Http/Resources/TagResource.php: setEndOfLine(LF)
+app/Http/Resources/TagResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/TagResource.php: Using EditorConfig core...
+app/Http/Resources/TagResource.php: setEndOfLine(LF)
+app/Http/Resources/TagResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/TagResource.php: Using EditorConfig core...
+app/Http/Resources/TagResource.php: setEndOfLine(LF)
+app/Http/Resources/TagResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/TagResource.php: Using EditorConfig core...
+app/Http/Resources/TagResource.php: setEndOfLine(LF)
+app/Http/Resources/TagResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/TagController.php: Using EditorConfig core...
+app/Http/Controllers/TagController.php: setEndOfLine(LF)
+app/Http/Controllers/TagController.php: editor.action.trimTrailingWhitespace

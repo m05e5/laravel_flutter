@@ -22,6 +22,8 @@ class CreateUsersTable extends Migration
             $table->enum('role',['student', 'teacher'])->default('student');
             $table->string('password');
             $table->string('filiere');
+            $table->unsignedBigInteger('departement_id');
+            $table->foreign('departement_id')->references('id')->on('departements');
             $table->rememberToken();
             $table->timestamps();
         });

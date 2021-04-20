@@ -7,6 +7,7 @@ use Exception;
 use Illuminate\Http\Request;
 use App\Models\Post;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 
 class PostController extends Controller
 {
@@ -71,10 +72,10 @@ class PostController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function showMyPosts()
     {
         try {
-            if ($post = Post::findOrFail($id)) {
+            if ($post = DB::table('posts')->where('id', Auth::id())->get()/*Post::findOrFail($id)*/) {
                 return Response()->json([
                     'status' => 'ok',
                     'data' => PostResource::collection($post),

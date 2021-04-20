@@ -1,7 +1,9 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\CommentController;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\PostWithTagController;
 use App\Http\Controllers\TagController;
 use App\Http\Controllers\UserWithTagController;
 use Illuminate\Http\Request;
@@ -39,7 +41,7 @@ Route::group(['middleware' => ['jwt.verify']], function() {
    //==========================  Posts  ===============================================
 Route::get('posts', [PostController::class, 'index']);
 Route::post('posts/create', [PostController::class, 'store']);
-Route::get('posts/{id}', [PostController::class, 'show']);
+Route::get('posts/me', [PostController::class, 'showMyPosts']);
 Route::put('posts/update/{id}', [PostController::class, 'update']);
 Route::delete('posts/delete/{id}', [PostController::class, 'destroy']);
 
@@ -50,10 +52,24 @@ Route::get('tags/{id}', [TagController::class, 'show']);
 Route::put('tags/update/{id}', [TagController::class, 'update']);
 Route::delete('tags/delete/{id}', [TagController::class, 'destroy']);
 
+//==========================  comments  ===============================================
+Route::get('comments', [CommentController::class, 'index']);
+Route::post('comments/create', [CommentController::class, 'store']);
+Route::get('comments/{id}', [CommentController::class, 'show']);
+Route::put('comments/update/{id}', [CommentController::class, 'update']);
+Route::delete('comments/delete/{id}', [CommentController::class, 'destroy']);
+
 //==========================  UserWithTag  ===============================================
 Route::get('UserWithTag', [UserWithTagController::class, 'index']);
 Route::post('UserWithTag/create', [UserWithTagController::class, 'store']);
+Route::get('UserWithTag/me', [UserWithTagController::class, 'userWithTags']);
+Route::delete('UserWithTag/delete/{id}', [UserWithTagController::class, 'destroy']);
 
+//==========================  PostWithTag  ===============================================
+Route::get('PostWithTag', [PostWithTagController::class, 'index']);
+Route::post('PostWithTag/create', [PostWithTagController::class, 'store']);
+Route::get('PostWithTag/unique/{id}', [PostWithTagController::class, 'postWithTags']);
+Route::delete('PostWithTag/delete/{id}', [PostWithTagController::class, 'destroy']);
 });
 
 

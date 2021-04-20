@@ -7,6 +7,7 @@ use Exception;
 use Illuminate\Http\Request;
 use App\Models\postWithTag;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 
 class PostWithTagController extends Controller
 {
@@ -36,17 +37,6 @@ class PostWithTagController extends Controller
             ], 500);
         }
     }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
-    }
-
     /**
      * Store a newly created resource in storage.
      *
@@ -57,10 +47,11 @@ class PostWithTagController extends Controller
     {
         try {
 
-            for ($i=0; $i < count($request->tag_id[]); $i++) {
+            $data = $request->all();
+            foreach ($data['tag_id'] as $tags) {
                 $postWithTag = new postWithTag();
                 $postWithTag->post_id = $request->post_id;
-                $postWithTag->tag_id = $request->tag_id[$i];
+                $postWithTag->tag_id = $request->$tags;
                 $postWithTag->save();
                 return Response()->json([
                     'status' => 'created',
@@ -82,21 +73,28 @@ class PostWithTagController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function postWithTags($id)
     {
-        //
+        try {
+            if ($post = DB::table(' post_with_tags')->where('id', $id)->get()) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => PostWithTagResource::collection($post),
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null,
+                ], 204);
+            }
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function edit($id)
-    {
-        //
-    }
 
     /**
      * Update the specified resource in storage.
@@ -118,6 +116,18 @@ class PostWithTagController extends Controller
      */
     public function destroy($id)
     {
-        //
+        try {
+            $post = PostWithTag::findOrFail($id);
+            $post->delete();
+            return Response()->json([
+                'status' => 'ok',
+                'data' => null,
+            ], 200);
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 }

@@ -23,6 +23,7 @@ class UserSeeder extends Seeder
             'password' => Hash::make('12345678'),
             'filiere' => 'Genie Logiciel',
             'role' => 'student',
+            'departement_id' => 1,
             'created_at' => now(),
             'updated_at' => now()
         ]);
@@ -36,6 +37,7 @@ class UserSeeder extends Seeder
             'password' => Hash::make('12345678'),
             'filiere' => 'Genie Logiciel',
             'role' => 'student',
+            'departement_id' => 1,
             'created_at' => now(),
             'updated_at' => now()
         ]);

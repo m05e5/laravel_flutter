@@ -17,6 +17,8 @@ class CreateTagsTable extends Migration
             $table->id();
             $table->string('name');
             $table->string('description');
+            $table->unsignedBigInteger('departement_id');
+            $table->foreign('departement_id')->references('id')->on('departements');
             $table->timestamps();
         });
     }
