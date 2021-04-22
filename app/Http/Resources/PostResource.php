@@ -3,6 +3,7 @@
 namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Facades\DB;
 
 class PostResource extends JsonResource
 {
@@ -23,7 +24,8 @@ class PostResource extends JsonResource
             'imgUrl' => $this->imgUrl,
             'user_id' => $this->user_id,
             'created_at' => $this->created_at,
-            'is_resolved' => $this->is_resolved
+            'is_resolved' => $this->is_resolved,
+            'user' => DB::table('users')->where('id', $this->user_id)->first()
         ];
     }
 }

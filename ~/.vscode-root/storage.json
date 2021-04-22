@@ -554,7 +554,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -563,7 +564,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1373,5 +1375,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/opt/lampp/htdocs"
+    "pickerWorkingDir": "/opt/lampp/htdocs",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///opt/lampp/htdocs/laravel_flutter",
+            "backupPath": "/opt/lampp/htdocs/laravel_flutter/~/.vscode-root/Backups/2f108a53cf084888cc9747faeba7777b",
+            "uiState": {
+                "mode": 0,
+                "x": 449,
+                "y": 181,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
 }

@@ -2,7 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Resources\DepartementResource;
+use Exception;
 use Illuminate\Http\Request;
+use App\Models\Departement;
 
 class DepartementController extends Controller
 {
@@ -13,7 +16,24 @@ class DepartementController extends Controller
      */
     public function index()
     {
-        //
+        try {
+            if ($tags = Departement::all()) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => DepartementResource::collection($tags)
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null
+                ], 204);
+            }
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**

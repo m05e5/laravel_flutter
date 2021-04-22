@@ -1,0 +1,51 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/laravel_flutter
+> git status -z -u
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/api.php
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :database/migrations/2021_04_19_093247_create_post_with_tags_table.php
+> git check-ignore -v -z --stdin
+> git show :routes/api.php
+> git show :database/migrations/2021_04_19_093011_create_tags_table.php
+> git show :database/migrations/2021_04_19_092813_create_posts_table.php
+> git check-ignore -v -z --stdin
+> git show :database/seeders/PostSeeder.php
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
+> git show :app/Http/Resources/PostResource.php
+> git check-ignore -v -z --stdin
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
+> git show :app/Http/Middleware/JwtMiddleware.php
+> git show :app/Http/Kernel.php
+> git show :app/Http/Middleware/JwtMiddleware.php
+> git show :vendor/tymon/jwt-auth/src/Facades/JWTAuth.php
+> git ls-files --stage -- vendor/tymon/jwt-auth/src/Facades/
+> git check-ignore -v -z --stdin
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
+> git show :database/seeders/DatabaseSeeder.php
+> git show :app/Models/Tag.php
+> git show :app/Http/Controllers/PostController.php
+> git show :database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git check-ignore -v -z --stdin
+> git show :app/Models/User.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Controllers/AuthController.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Models/User.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostWithTagResource.php

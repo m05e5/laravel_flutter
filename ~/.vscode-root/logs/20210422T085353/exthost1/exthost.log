@@ -1,0 +1,40 @@
+[2021-04-22 08:54:01.488] [exthost] [info] extension host started
+[2021-04-22 08:54:01.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:01.796] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-04-22 08:54:01.890] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:01.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-04-22 08:54:01.988] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:01.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.3.11/lib/extension
+[2021-04-22 08:54:02.084] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:02.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-04-22 08:54:02.202] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:02.203] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2021-04-22 08:54:02.444] [exthost] [info] ExtensionService#_doActivateExtension predrag-nikolic.php-class-helper {"startup":false,"extensionId":{"value":"predrag-nikolic.php-class-helper","_lower":"predrag-nikolic.php-class-helper"},"activationEvent":"onLanguage:php"}
+[2021-04-22 08:54:02.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/predrag-nikolic.php-class-helper-0.1.8/out/extension
+[2021-04-22 08:54:02.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-22 08:54:02.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-22 08:54:02.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-04-22 08:54:02.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2021-04-22 08:54:02.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2021-04-22 08:54:02.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-22 08:54:03.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-04-22 08:54:03.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2021-04-22 08:54:03.042] [exthost] [info] ExtensionService#_doActivateExtension apility.beautify-blade {"startup":true,"extensionId":{"value":"apility.beautify-blade","_lower":"apility.beautify-blade"},"activationEvent":"*"}
+[2021-04-22 08:54:03.043] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/apility.beautify-blade-1.0.1/extension
+[2021-04-22 08:54:05.415] [exthost] [info] ExtensionService#_doActivateExtension austenc.laravel-blade-spacer {"startup":true,"extensionId":{"value":"austenc.laravel-blade-spacer","_lower":"austenc.laravel-blade-spacer"},"activationEvent":"*"}
+[2021-04-22 08:54:05.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/austenc.laravel-blade-spacer-2.1.2/out/extension
+[2021-04-22 08:54:05.443] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-04-22 08:54:05.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/editorconfig.editorconfig-0.14.2/out/editorConfigMain.js
+[2021-04-22 08:54:06.269] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.bettercomment {"startup":true,"extensionId":{"value":"Gruntfuggly.bettercomment","_lower":"gruntfuggly.bettercomment"},"activationEvent":"*"}
+[2021-04-22 08:54:06.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gruntfuggly.bettercomment-0.0.11/extension
+[2021-04-22 08:54:06.596] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":true,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"*"}
+[2021-04-22 08:54:06.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gruntfuggly.todo-tree-0.0.188/dist/extension
+[2021-04-22 08:54:06.782] [exthost] [info] ExtensionService#_doActivateExtension kevinkyang.auto-comment-blocks {"startup":true,"extensionId":{"value":"kevinkyang.auto-comment-blocks","_lower":"kevinkyang.auto-comment-blocks"},"activationEvent":"*"}
+[2021-04-22 08:54:06.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/kevinkyang.auto-comment-blocks-1.0.1/out/src/extension
+[2021-04-22 08:54:06.865] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-04-22 08:54:06.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-04-22 08:54:06.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-04-22 08:54:06.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2021-04-22 08:54:08.759] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-04-22 08:54:08.759] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-04-22 08:54:15.938] [exthost] [info] eager extensions activated

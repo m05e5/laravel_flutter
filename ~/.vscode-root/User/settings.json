@@ -1,4 +1,7 @@
 {
     "todo-tree.tree.showScanModeButton": false,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
 }

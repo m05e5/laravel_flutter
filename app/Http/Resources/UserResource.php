@@ -24,6 +24,7 @@ class UserResource extends JsonResource
            'matricule' => $this->matricule,
            'password' => $this->password,
            'filiere' => $this->filiere,
+           'imgProfile' => $this->imgProfile
        ];
     }
 }

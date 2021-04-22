@@ -134,3 +134,65 @@ Open repository: /opt/lampp/htdocs/laravel_flutter
 > git check-ignore -v -z --stdin
 > git show :app/Http/Resources/TagResource.php
 > git show :app/Http/Controllers/TagController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/Http/Controllers/TagController.php
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/TagController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/TagController.php
+> git show :app/Http/Controllers/DepartementController.php
+> git show :app/Http/Controllers/TagController.php
+> git show :app/Http/Controllers/DepartementController.php
+> git show :app/Http/Controllers/TagController.php
+> git show :app/Http/Controllers/DepartementController.php
+> git check-ignore -v -z --stdin
+> git show :app/Http/Resources/DepartementResource.php
+> git ls-files --stage -- app/Http/Resources/
+> git show :app/Http/Controllers/DepartementController.php
+> git show :app/Http/Resources/DepartementResource.php
+> git ls-files --stage -- app/Http/Resources/
+> git show :app/Http/Resources/CommentResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/DepartementResource.php
+> git ls-files --stage -- app/Http/Resources/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/AuthController.php
+> git show :app/Http/Controllers/DepartementController.php
+> git show :database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+> git show :database/migrations/2021_04_19_093111_create_user_with_tags_table.php
+> git show :database/seeders/PostSeeder.php
+> git show :database/seeders/DepartementSeeder.php
+> git show :database/seeders/DatabaseSeeder.php
+> git show :routes/api.php
+> git show :app/Http/Controllers/AuthController.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/api.php
