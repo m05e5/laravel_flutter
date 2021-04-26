@@ -1,0 +1,30 @@
+[2021-04-26 10:25:41.109] [exthost] [info] extension host started
+[2021-04-26 10:25:41.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-26 10:25:41.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-26 10:25:41.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-04-26 10:25:41.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2021-04-26 10:25:41.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2021-04-26 10:25:41.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-26 10:25:41.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-04-26 10:25:41.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2021-04-26 10:25:41.181] [exthost] [info] ExtensionService#_doActivateExtension apility.beautify-blade {"startup":true,"extensionId":{"value":"apility.beautify-blade","_lower":"apility.beautify-blade"},"activationEvent":"*"}
+[2021-04-26 10:25:41.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/apility.beautify-blade-1.0.1/extension
+[2021-04-26 10:25:41.214] [exthost] [info] ExtensionService#_doActivateExtension austenc.laravel-blade-spacer {"startup":true,"extensionId":{"value":"austenc.laravel-blade-spacer","_lower":"austenc.laravel-blade-spacer"},"activationEvent":"*"}
+[2021-04-26 10:25:41.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/austenc.laravel-blade-spacer-2.1.2/out/extension
+[2021-04-26 10:25:41.215] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-04-26 10:25:41.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/editorconfig.editorconfig-0.14.2/out/editorConfigMain.js
+[2021-04-26 10:25:41.236] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.bettercomment {"startup":true,"extensionId":{"value":"Gruntfuggly.bettercomment","_lower":"gruntfuggly.bettercomment"},"activationEvent":"*"}
+[2021-04-26 10:25:41.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gruntfuggly.bettercomment-0.0.11/extension
+[2021-04-26 10:25:41.240] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":true,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"*"}
+[2021-04-26 10:25:41.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gruntfuggly.todo-tree-0.0.188/dist/extension
+[2021-04-26 10:25:41.261] [exthost] [info] ExtensionService#_doActivateExtension kevinkyang.auto-comment-blocks {"startup":true,"extensionId":{"value":"kevinkyang.auto-comment-blocks","_lower":"kevinkyang.auto-comment-blocks"},"activationEvent":"*"}
+[2021-04-26 10:25:41.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/kevinkyang.auto-comment-blocks-1.0.1/out/src/extension
+[2021-04-26 10:25:41.265] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-04-26 10:25:41.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-04-26 10:25:41.270] [exthost] [info] eager extensions activated
+[2021-04-26 10:26:40.303] [exthost] [info] ExtensionService#_doActivateExtension BendixMa.dart-data-class-generator {"startup":false,"extensionId":{"value":"BendixMa.dart-data-class-generator","_lower":"bendixma.dart-data-class-generator"},"activationEvent":"onLanguage:dart"}
+[2021-04-26 10:26:40.303] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bendixma.dart-data-class-generator-0.5.0/src/extension.js
+[2021-04-26 10:26:40.332] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onLanguage:dart"}
+[2021-04-26 10:26:40.332] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dart-code.dart-code-3.8.1/out/dist/extension
+[2021-04-26 10:27:58.963] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2021-04-26 10:27:58.963] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.code-runner-0.11.2/out/src/extension

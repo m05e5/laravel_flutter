@@ -27,7 +27,8 @@ class JwtMiddleware extends BaseMiddleware
             if ($e instanceof \Tymon\JWTAuth\Exceptions\TokenInvalidException){
                 return response()->json(['status' => 'Token is Invalid']);
             }else if ($e instanceof \Tymon\JWTAuth\Exceptions\TokenExpiredException){
-                return response()->json(['status' => 'Token is Expired']);
+                //return response()->json(['status' => 'Token is Expired']);
+                return $next($request);
             }else{
                 return response()->json(['status' => 'Authorization Token not found']);
             }

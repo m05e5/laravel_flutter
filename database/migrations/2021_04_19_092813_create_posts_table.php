@@ -17,7 +17,7 @@ class CreatePostsTable extends Migration
             $table->id();
             $table->string('title');
             $table->longText('description');
-            $table->string('imgUrl');
+            $table->string('imgUrl')->nullable();
             $table->boolean('is_resolved')->default(false);
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users');

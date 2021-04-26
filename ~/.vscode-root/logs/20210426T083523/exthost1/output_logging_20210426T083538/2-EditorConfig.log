@@ -1,0 +1,39 @@
+Initializing document watcher...
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/routes/api.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/routes/api.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: {"insertSpaces":true,"tabSize":4}
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+laravel_flutter/routes/api.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_092813_create_posts_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_092813_create_posts_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_092813_create_posts_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_092813_create_posts_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_092813_create_posts_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: Using EditorConfig core...
+app/Http/Middleware/JwtMiddleware.php: setEndOfLine(LF)
+app/Http/Middleware/JwtMiddleware.php: editor.action.trimTrailingWhitespace
+laravel_flutter/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/vendor/tymon/jwt-auth/src/JWT.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/vendor/tymon/jwt-auth/src/JWTAuth.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/vendor/tymon/jwt-auth/src/JWTGuard.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: Using EditorConfig core...
+app/Http/Middleware/JwtMiddleware.php: setEndOfLine(LF)
+app/Http/Middleware/JwtMiddleware.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: Using EditorConfig core...
+app/Http/Middleware/JwtMiddleware.php: setEndOfLine(LF)
+app/Http/Middleware/JwtMiddleware.php: editor.action.trimTrailingWhitespace
+laravel_flutter/vendor/tymon/jwt-auth/src/Exceptions/TokenExpiredException.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Middleware/JwtMiddleware.php: {"insertSpaces":true,"tabSize":4}
