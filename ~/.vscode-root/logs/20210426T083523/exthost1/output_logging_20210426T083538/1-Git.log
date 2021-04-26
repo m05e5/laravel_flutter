@@ -73,3 +73,21 @@ Open repository: /opt/lampp/htdocs/laravel_flutter
 > git remote --verbose
 > git config --get commit.template
 > git show :app/Http/Middleware/JwtMiddleware.php
+> git show :app/Http/Middleware/JwtMiddleware.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Middleware/JwtMiddleware.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
