@@ -48,3 +48,5 @@
 [2021-04-26 10:25:22.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
 [2021-04-26 10:25:23.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
 [2021-04-26 10:25:23.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2021-04-26 11:48:14.529] [exthost] [info] ExtensionService#_doActivateExtension wwen.magic-comment {"startup":false,"extensionId":{"value":"wwen.magic-comment","_lower":"wwen.magic-comment"},"activationEvent":"onCommand:extension.magicComment"}
+[2021-04-26 11:48:14.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/wwen.magic-comment-1.0.2/out/extension.js
