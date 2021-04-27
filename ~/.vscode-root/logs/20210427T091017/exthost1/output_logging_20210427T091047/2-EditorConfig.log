@@ -885,3 +885,7 @@ app/Http/Resources/PostResource.php: editor.action.trimTrailingWhitespace
 laravel_flutter/app/Http/Resources/PostResource.php: {"insertSpaces":true,"tabSize":4}
 laravel_flutter/app/Http/Resources/PostResource.php: {"insertSpaces":true,"tabSize":4}
 laravel_flutter/app/Http/Resources/PostResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/PostResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/PostResource.php: Using EditorConfig core...
+app/Http/Resources/PostResource.php: setEndOfLine(LF)
+app/Http/Resources/PostResource.php: editor.action.trimTrailingWhitespace

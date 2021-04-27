@@ -26,7 +26,7 @@ class PostResource extends JsonResource
             'created_at' => $this->created_at,
             'is_resolved' => $this->is_resolved,
             'user' => DB::table('users')->where('id', $this->user_id)->first(),
-            'tags' => self::getTag($this->id)
+            'tags' => self::getTag($this->id),
         ];
     }
 
