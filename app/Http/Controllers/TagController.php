@@ -7,6 +7,7 @@ use Exception;
 use Illuminate\Http\Request;
 use App\Models\Tag;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 
 class TagController extends Controller
 {
@@ -91,6 +92,9 @@ class TagController extends Controller
             ], 500);
         }
     }
+
+
+   
 
 
     /**

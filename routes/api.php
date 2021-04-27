@@ -68,7 +68,7 @@ Route::delete('UserWithTag/delete/{id}', [UserWithTagController::class, 'destroy
 //==========================  PostWithTag  ===============================================
 Route::get('PostWithTag', [PostWithTagController::class, 'index']);
 Route::post('PostWithTag/create', [PostWithTagController::class, 'store']);
-Route::get('PostWithTag/unique/{id}', [PostWithTagController::class, 'postWithTags']);
+Route::get('PostWithTag/show/{id}', [PostWithTagController::class, 'postWithTags']);//here the id is the id of the post
 Route::delete('PostWithTag/delete/{id}', [PostWithTagController::class, 'destroy']);
 });
 

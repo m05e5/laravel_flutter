@@ -1,0 +1,28 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/revends_ton_livre
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse Api-moses
+> git rev-parse --symbolic-full-name Api-moses@{u}
+> git rev-list --left-right Api-moses...refs/remotes/origin/Api-moses
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/opt/lampp/htdocs/revends_ton_livre/.git/refs/remotes/origin/Api-moses', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/opt/lampp/htdocs/revends_ton_livre/.git/refs/remotes/origin/Api-moses'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/CategoryController.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Controllers/CategoryController.php

@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/laravel_flutter
+> git status -z -u
+> git show :database/seeders/UserSeeder.php
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :database/seeders/UserSeeder.php
+> git show :database/seeders/PostSeeder.php
+> git show :database/seeders/UserSeeder.php
+> git show :app/Http/Resources/PostResource.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :database/seeders/PostSeeder.php
+> git show :app/Http/Resources/PostResource.php
+> git show :database/seeders/PostSeeder.php
+> git show :routes/api.php
+> git show :database/seeders/PostSeeder.php
+> git show :app/Http/Resources/PostResource.php
+> git check-ignore -v -z --stdin
+> git show :vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php
+> git ls-files --stage -- vendor/laravel/framework/src/Illuminate/Database/Query/
+> git check-ignore -v -z --stdin
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git show :routes/api.php
+> git show :app/Http/Controllers/TagController.php
+> git show :app/Http/Controllers/PostWithTagController.php
+> git show :routes/api.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/TagResource.php
+> git show :app/Http/Resources/PostResource.php
+> git status -z -u
+> git show :app/Http/Resources/PostResource.php
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show :app/Http/Resources/PostResource.php
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u

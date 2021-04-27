@@ -2,7 +2,8 @@
     "telemetry.machineId": "9bee0f72e902aafe60d6ac168ecaee6ce7844c777cb5d04ffbe81b9b1421ea85",
     "openedPathsList": {
         "workspaces3": [
-            "file:///opt/lampp/htdocs/laravel_flutter"
+            "file:///opt/lampp/htdocs/laravel_flutter",
+            "file:///opt/lampp/htdocs/revends_ton_livre"
         ],
         "files2": []
     },
@@ -56,6 +57,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/opt/lampp/htdocs/laravel_flutter"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///opt/lampp/htdocs/revends_ton_livre",
+                                        "path": "/opt/lampp/htdocs/revends_ton_livre",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/opt/lampp/htdocs/revends_ton_livre"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"

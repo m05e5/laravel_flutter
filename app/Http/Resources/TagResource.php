@@ -3,6 +3,7 @@
 namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Facades\DB;
 
 class TagResource extends JsonResource
 {
@@ -21,6 +22,7 @@ class TagResource extends JsonResource
             'name' => $this->name,
             'description' => $this->description,
             'departement_id' => $this->departement_id,
+            
 
         ];
     }

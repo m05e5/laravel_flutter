@@ -50,3 +50,35 @@
 [2021-04-26 10:25:23.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
 [2021-04-26 11:48:14.529] [exthost] [info] ExtensionService#_doActivateExtension wwen.magic-comment {"startup":false,"extensionId":{"value":"wwen.magic-comment","_lower":"wwen.magic-comment"},"activationEvent":"onCommand:extension.magicComment"}
 [2021-04-26 11:48:14.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/wwen.magic-comment-1.0.2/out/extension.js
+[2021-04-26 13:13:45.696] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-04-26 13:13:45.697] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (/root/.vscode/extensions/stef-k.laravel-goto-controller-0.0.12/out/link.js:42:69)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:572:295
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:363
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:335)
+	at O.provideLinks (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:572:266)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:853
+	at H._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:576:901)
+	at H.$provideDocumentLinks (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:831)
+	at f._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:646:285)
+	at f._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:645:999)
+	at f._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:644:613)
+	at f._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:643:477)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:641:754
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at _.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:187:274)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:285
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at _.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:187:274)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:191:629)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:188:824
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:207)
+	at f.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:184:737)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:184:89
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:193:68)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
