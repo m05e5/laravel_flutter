@@ -18,3 +18,27 @@ Open repository: /opt/lampp/htdocs/laravel_flutter
 > git config --get commit.template
 > git show :app/Http/Controllers/AuthController.php
 > git check-ignore -v -z --stdin
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Controllers/AuthController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Resources/CommentResource.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
