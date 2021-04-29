@@ -1,0 +1,6 @@
+[2021-04-29 14:12:59.256] [main] [info] update#setState idle
+[2021-04-29 14:13:29.257] [main] [info] update#setState checking for updates
+[2021-04-29 14:13:29.264] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2021-04-29 14:13:29.267] [main] [info] update#setState idle
+[2021-04-29 15:13:29.694] [main] [info] update#setState checking for updates
+[2021-04-29 15:13:30.412] [main] [info] update#setState available for download

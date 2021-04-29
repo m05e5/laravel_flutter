@@ -38,6 +38,8 @@ Route::post('/users/logout',[AuthController::class, 'logout'] );
 
 Route::group(['middleware' => ['jwt.verify']], function() {
 
+    Route::get('getMyData', [AuthController::class, 'getMyData']);
+
    //==========================  Posts  ===============================================
 Route::get('posts', [PostController::class, 'index']);
 Route::post('posts/create', [PostController::class, 'store']);
@@ -56,6 +58,7 @@ Route::delete('tags/delete/{id}', [TagController::class, 'destroy']);
 Route::get('comments', [CommentController::class, 'index']);
 Route::post('comments/create', [CommentController::class, 'store']);
 Route::get('comments/{id}', [CommentController::class, 'show']);
+Route::get('comments/onPost/{id}', [CommentController::class, 'commentsOnPost']);
 Route::put('comments/update/{id}', [CommentController::class, 'update']);
 Route::delete('comments/delete/{id}', [CommentController::class, 'destroy']);
 

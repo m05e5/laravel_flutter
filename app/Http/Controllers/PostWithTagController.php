@@ -76,7 +76,7 @@ class PostWithTagController extends Controller
     public function postWithTags($id)
     {
         try {
-            if ($post = DB::table(' post_with_tags')->where('id', $id)->get()) {
+            if ($post = DB::table('post_with_tags')->where('id', $id)->get()) {
                 return Response()->json([
                     'status' => 'ok',
                     'data' => PostWithTagResource::collection($post),

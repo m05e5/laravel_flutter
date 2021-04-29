@@ -16,3 +16,100 @@ Open repository: /opt/lampp/htdocs/laravel_flutter
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git status -z -u
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/seeders/DatabaseSeeder.php
+> git show :database/seeders/DepartementSeeder.php
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git check-ignore -v -z --stdin
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_04_19_093247_create_post_with_tags_table.php
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/seeders/DepartementSeeder.php
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/seeders/DepartementSeeder.php
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2021_04_28_135415_create_comment_with_posts_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :app/Models/CommentWithPost.php
+> git ls-files --stage -- app/Models/
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/seeders/DatabaseSeeder.php
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Controllers/PostWithTagController.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Controllers/PostWithTagController.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Resources/CommentResource.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :routes/api.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :routes/api.php
+> git show :database/seeders/CommentSeeder.php
+> git ls-files --stage -- database/seeders/
+> git show :app/Models/Comment.php
+> git show :app/Models/Post.php
+> git show :app/Models/PostWithTag.php
+> git show :app/Models/Post.php
+> git show :app/Models/User.php
+> git show :app/Http/Resources/PostResource.php
+> git show :app/Http/Resources/CommentResource.php

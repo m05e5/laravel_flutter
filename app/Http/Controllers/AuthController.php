@@ -5,6 +5,8 @@ use App\Models\User;
 use Illuminate\Database\Eloquent\Model;
 use App\Http\Requests\RegisterAuthRequests;
 use App\Http\Resources\UserResource;
+use Carbon\Carbon;
+use Exception;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;
@@ -52,13 +54,12 @@ class AuthController extends Controller
         $input = $request->only('matricule', 'password');
 
         $jwt_token = null;
-        if(!$jwt_token = JWTAuth::attempt($input)){
+        if(!$jwt_token = JWTAuth::attempt($input, ['exp' => Carbon::now()->addDays(7)->timestamp])){
             return response()->json([
                 'status'=>'invalid_credentials',
                 'message' => 'the informations you entered are not valide.',
             ], 401);
         }
-
         return response()->json([
             'status' => 'ok',
             'token' => $jwt_token,
@@ -103,6 +104,21 @@ class AuthController extends Controller
          'Charset' => 'utf-8'], JSON_UNESCAPED_UNICODE
 
         );
+    }
+    public function getMyData(){
+        try {
+
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => Auth::user(),
+                ], 200);
+            }
+             catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
     }
 
     /**

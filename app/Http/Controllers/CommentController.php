@@ -7,7 +7,7 @@ use Exception;
 use Illuminate\Http\Request;
 use App\Models\Comment;
 use Illuminate\Support\Facades\Auth;
-
+use Illuminate\Support\Facades\DB;
 
 class CommentController extends Controller
 {
@@ -74,6 +74,28 @@ class CommentController extends Controller
         }
     }
 
+    public function commentsOnPost($id)
+    {
+        try {
+            if ($post = DB::table('comments')->where('post_id', $id)->get()) {
+                return Response()->json([
+                    'status' => 'ok',
+                    'data' => CommentResource::collection($post),
+                ], 200);
+            } else {
+                return Response()->json([
+                    'status' => 'no_content',
+                    'data' => null,
+                ], 204);
+            }
+        } catch (Exception $e) {
+            return Response()->json([
+                'status' => 'internal_server_error',
+                'data' => $e->getMessage(),
+            ], 500);
+        }
+    }
+
     /**
      * Display the specified resource.
      *
@@ -126,7 +148,7 @@ class CommentController extends Controller
             $comment = Comment::findOrFail($id);
             $comment->user_id = Auth::id();
             $comment->post_id = $request->post_id;
-            $comment->content = $request->content; 
+            $comment->content = $request->content;
             $comment->save();
             return Response()->json([
                 'status' => 'Updated',

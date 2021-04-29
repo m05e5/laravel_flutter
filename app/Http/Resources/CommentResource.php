@@ -3,6 +3,7 @@
 namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Facades\DB;
 
 class CommentResource extends JsonResource
 {
@@ -18,8 +19,10 @@ class CommentResource extends JsonResource
 
        return [
            'id' => $this->id,
+           'content' => $this->content,
            'post_id' => $this->post_id,
            'user_id' => $this->user_id,
+           'user' => DB::table('users')->where('id', $this->user_id)->first(),
        ];
     }
 }
