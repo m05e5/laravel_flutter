@@ -1,0 +1,8 @@
+[2021-04-30 12:53:40.742] [sharedprocess] [info] main {"machineId":"9bee0f72e902aafe60d6ac168ecaee6ce7844c777cb5d04ffbe81b9b1421ea85","windowId":2}
+[2021-04-30 12:53:48.508] [sharedprocess] [info] Installing extension: hirantha.json-to-dart
+[2021-04-30 12:53:52.780] [sharedprocess] [info] Downloaded extension: hirantha.json-to-dart /tmp/83c0482c-77f7-497f-8990-56f7ef6d435b
+[2021-04-30 12:53:54.147] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.hirantha.json-to-dart-3.1.5: hirantha.json-to-dart
+[2021-04-30 12:53:54.147] [sharedprocess] [info] Renamed to /root/.vscode/extensions/hirantha.json-to-dart-3.1.5
+[2021-04-30 12:53:54.148] [sharedprocess] [info] Installation completed. hirantha.json-to-dart
+[2021-04-30 12:53:54.230] [sharedprocess] [info] Extensions installed successfully: hirantha.json-to-dart
+[2021-04-30 12:54:20.787] [sharedprocess] [info] Starting to clean up unused language packs.

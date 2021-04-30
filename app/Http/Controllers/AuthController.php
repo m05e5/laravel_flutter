@@ -54,7 +54,7 @@ class AuthController extends Controller
         $input = $request->only('matricule', 'password');
 
         $jwt_token = null;
-        if(!$jwt_token = JWTAuth::attempt($input, ['exp' => Carbon::now()->addDays(7)->timestamp])){
+        if(!$jwt_token = JWTAuth::attempt($input)){
             return response()->json([
                 'status'=>'invalid_credentials',
                 'message' => 'the informations you entered are not valide.',
