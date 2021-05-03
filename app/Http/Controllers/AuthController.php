@@ -64,7 +64,7 @@ class AuthController extends Controller
             'status' => 'ok',
             'token' => $jwt_token,
             'data' => Auth::user()
-        ]);
+        ]); 
     }
 
     public function logout(Request $request)
