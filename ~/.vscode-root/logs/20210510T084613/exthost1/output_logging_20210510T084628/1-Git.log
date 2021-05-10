@@ -79,3 +79,50 @@ Open repository: /opt/lampp/htdocs/laravel_flutter
 > git check-ignore -v -z --stdin
 > git show :app/Http/Controllers/UserAnsweredQuestionController.php
 > git ls-files --stage -- app/Http/Controllers/
+> git status -z -u
+> git show :app/Http/Controllers/UserAnsweredQuestionController.php
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/UserAnsweredQuestionController.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :app/Http/Controllers/PostController.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :app/Http/Controllers/PostController.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Controllers/PostController.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :app/Models/User.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Resources/CommentResource.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :app/Http/Controllers/PostController.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :database/seeders/UserSeeder.php
+> git show :database/seeders/PostSeeder.php
+> git show :database/seeders/UserSeeder.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :app/Http/Controllers/PostController.php
+> git show :app/Http/Controllers/CommentController.php
+> git show :database/seeders/UserSeeder.php

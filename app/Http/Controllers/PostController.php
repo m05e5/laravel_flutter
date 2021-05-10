@@ -54,6 +54,12 @@ class PostController extends Controller
             $post->description = $request->description;
             $post->imgUrl = $request->imgUrl;
             $post->save();
+            //---------------------updating user questios asked---------
+            $userQuestions = Auth::user()->question_asked;
+            $userQuestions = $userQuestions + 1;
+            DB::table('users')->where('id', '=', Auth::id())->update(['question_asked' => $userQuestions]);
+            //-----------------------------------------------------------
+
             return Response()->json([
                 'status' => 'created',
                 'data' => null,

@@ -237,3 +237,261 @@ app/Models/UserAnsweredQuestion.php: editor.action.trimTrailingWhitespace
 laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
 laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
 laravel_flutter/app/Http/Controllers/UserAnsweredQuestionController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: Using EditorConfig core...
+app/Http/Controllers/PostController.php: setEndOfLine(LF)
+app/Http/Controllers/PostController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/User.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/CommentResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: Using EditorConfig core...
+app/Http/Controllers/CommentController.php: setEndOfLine(LF)
+app/Http/Controllers/CommentController.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/PostSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/PostController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/CommentController.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/seeders/UserSeeder.php: Using EditorConfig core...
+database/seeders/UserSeeder.php: setEndOfLine(LF)
+database/seeders/UserSeeder.php: editor.action.trimTrailingWhitespace

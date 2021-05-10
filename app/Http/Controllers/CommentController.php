@@ -62,6 +62,11 @@ class CommentController extends Controller
             $comment->post_id = $request->post_id;
             $comment->content = $request->content;
             $comment->save();
+             //---------------------updating user questios answered---------
+             $useranswered = Auth::user()->question_answered;
+             $useranswered = $useranswered + 1;
+             DB::table('users')->where('id', '=', Auth::id())->update(['question_answered' => $useranswered]);
+             //-----------------------------------------------------------
             return Response()->json([
                 'status' => 'created',
                 'data' => null,

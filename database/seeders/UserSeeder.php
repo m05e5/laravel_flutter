@@ -24,6 +24,8 @@ class UserSeeder extends Seeder
             'filiere' => 'Genie Logiciel',
             'role' => 'student',
             'departement_id' => 1,
+            'question_asked' => 1,
+            'question_answered' => 6,
             'created_at' => now(),
             'updated_at' => now()
         ]);
@@ -38,6 +40,8 @@ class UserSeeder extends Seeder
             'filiere' => 'OGA',
             'role' => 'student',
             'departement_id' => 4,
+            'question_asked' => 2,
+            'question_answered' => 4,
             'created_at' => now(),
             'updated_at' => now()
         ]);
@@ -51,6 +55,8 @@ class UserSeeder extends Seeder
             'filiere' => 'Genie Logiciel',
             'role' => 'student',
             'departement_id' => 1,
+            'question_asked' => 1,
+            'question_answered' => 5,
             'created_at' => now(),
             'updated_at' => now()
         ]);

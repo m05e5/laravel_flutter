@@ -26,6 +26,7 @@ class UserResource extends JsonResource
            'filiere' => $this->filiere,
            'imgProfile' => $this->imgProfile,
            'question_asked' => $this->question_asked,
+           'question_answered' => $this->question_answered,
        ];
     }
 }
