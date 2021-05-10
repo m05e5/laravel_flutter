@@ -1,0 +1,4 @@
+[Info  - 10:02:47] Initialising intelephense 1.3.11
+[Info  - 10:02:48] Reading state from /opt/lampp/htdocs/laravel_flutter/~/.vscode-root/User/workspaceStorage/376a64630e118dbe0b209657f6e40461/bmewburn.vscode-intelephense-client/207a4bb7.
+[Info  - 10:02:54] Initialised in 6884 ms
+[Warn  - 10:02:56] file:///opt/lampp/htdocs/laravel_flutter/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.

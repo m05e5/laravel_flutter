@@ -28,6 +28,7 @@ class User extends Authenticatable implements JWTSubject
         'password',
         'filiere',
         'imgProfile',
+        'question_asked',
     ];
 
     /**

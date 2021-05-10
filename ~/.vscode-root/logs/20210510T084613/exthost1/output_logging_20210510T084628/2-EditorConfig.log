@@ -1,0 +1,239 @@
+Initializing document watcher...
+laravel_flutter/app/Http/Resources/TagResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/PostWithTagResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/CommentResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/CommentResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/DepartementResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/PostWithTagResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Comment.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Departement.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/User.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/PostWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/PostWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/PostWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: Using EditorConfig core...
+database/migrations/2021_04_19_131852_create_comments_table.php: setEndOfLine(LF)
+database/migrations/2021_04_19_131852_create_comments_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_093247_create_post_with_tags_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082550_create_user_asked_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082550_create_user_asked_questions_table.php: {"insertSpaces":true,"tabSize":4}
+No more open editors.
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: Using EditorConfig core...
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: setEndOfLine(LF)
+database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: Using EditorConfig core...
+database/migrations/2014_10_12_000000_create_users_table.php: setEndOfLine(LF)
+database/migrations/2014_10_12_000000_create_users_table.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/User.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/User.php: Using EditorConfig core...
+app/Models/User.php: setEndOfLine(LF)
+app/Models/User.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: Using EditorConfig core...
+app/Http/Resources/UserResource.php: setEndOfLine(LF)
+app/Http/Resources/UserResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/UserResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2014_10_12_000000_create_users_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Comment.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/Comment.php: Using EditorConfig core...
+app/Models/Comment.php: setEndOfLine(LF)
+app/Models/Comment.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Http/Resources/CommentResource.php: Using EditorConfig core...
+app/Http/Resources/CommentResource.php: setEndOfLine(LF)
+app/Http/Resources/CommentResource.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: Using EditorConfig core...
+app/Models/UserAnsweredQuestion.php: setEndOfLine(LF)
+app/Models/UserAnsweredQuestion.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: Using EditorConfig core...
+app/Models/UserAnsweredQuestion.php: setEndOfLine(LF)
+app/Models/UserAnsweredQuestion.php: editor.action.trimTrailingWhitespace
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_04_19_131852_create_comments_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/database/migrations/2021_05_10_082532_create_user_answered_questions_table.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/PostWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserWithTag.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: Using EditorConfig core...
+app/Models/UserAnsweredQuestion.php: setEndOfLine(LF)
+app/Models/UserAnsweredQuestion.php: editor.action.trimTrailingWhitespace
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Models/UserAnsweredQuestion.php: {"insertSpaces":true,"tabSize":4}
+laravel_flutter/app/Http/Controllers/UserAnsweredQuestionController.php: {"insertSpaces":true,"tabSize":4}

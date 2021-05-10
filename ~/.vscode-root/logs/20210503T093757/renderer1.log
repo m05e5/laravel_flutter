@@ -1,2 +1,4 @@
 [2021-05-03 09:38:12.308] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
 [2021-05-03 09:38:12.382] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-05-03 09:49:16.811] [renderer1] [error] XHR timeout: undefinedms: Error: XHR timeout: undefinedms
+    at XMLHttpRequest.r.ontimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:391:317)

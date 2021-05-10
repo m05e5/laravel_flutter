@@ -1,0 +1,81 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/laravel_flutter
+> git status -z -u
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :routes/api.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Http/Resources/TagResource.php
+> git check-ignore -v -z --stdin
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Http/Resources/CommentResource.php
+> git show :app/Http/Resources/UserResource.php
+> git show :app/Http/Resources/CommentResource.php
+> git show :app/Http/Resources/DepartementResource.php
+> git show :app/Http/Resources/PostWithTagResource.php
+> git show :app/Models/Comment.php
+> git check-ignore -v -z --stdin
+> git show :app/Models/Departement.php
+> git show :app/Models/User.php
+> git show :app/Models/UserWithTag.php
+> git show :app/Models/PostWithTag.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git check-ignore -v -z --stdin
+> git show :database/migrations/2021_04_19_093247_create_post_with_tags_table.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_05_10_082550_create_user_asked_questions_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :app/Models/User.php
+> git show :app/Http/Resources/UserResource.php
+> git status -z -u
+> git show :app/Http/Resources/UserResource.php
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2014_10_12_000000_create_users_table.php
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :app/Models/Comment.php
+> git show :app/Http/Resources/CommentResource.php
+> git check-ignore -v -z --stdin
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :app/Models/UserAnsweredQuestion.php
+> git show :app/Models/UserWithTag.php
+> git show :app/Models/UserAnsweredQuestion.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :app/Models/UserAnsweredQuestion.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :database/migrations/2021_04_19_131852_create_comments_table.php
+> git show :database/migrations/2021_05_10_082532_create_user_answered_questions_table.php
+> git show :app/Models/UserAnsweredQuestion.php
+> git show :app/Models/PostWithTag.php
+> git show :app/Models/UserWithTag.php
+> git show :app/Models/UserAnsweredQuestion.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/UserAnsweredQuestionController.php
+> git ls-files --stage -- app/Http/Controllers/

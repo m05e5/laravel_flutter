@@ -1,6 +1,0 @@
-Looking for git in: git
-Using git 2.7.4 from git
-> git rev-parse --show-toplevel
-fatal: Not a git repository (or any of the parent directories): .git
-> git rev-parse --show-toplevel
-fatal: Not a git repository (or any of the parent directories): .git

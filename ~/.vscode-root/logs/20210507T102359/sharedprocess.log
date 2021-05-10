@@ -1,0 +1,8 @@
+[2021-05-07 10:24:06.538] [sharedprocess] [info] main {"machineId":"9bee0f72e902aafe60d6ac168ecaee6ce7844c777cb5d04ffbe81b9b1421ea85","windowId":2}
+[2021-05-07 10:24:25.682] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2021-05-07 10:24:46.595] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-07 10:27:25.958] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /tmp/85694ffa-3da0-43b6-9ce6-dd98204cf7bb
+[2021-05-07 10:27:26.264] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.cmake-tools-1.7.2: ms-vscode.cmake-tools
+[2021-05-07 10:27:26.264] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.cmake-tools-1.7.2
+[2021-05-07 10:27:26.267] [sharedprocess] [info] Installation completed. ms-vscode.cmake-tools
+[2021-05-07 10:27:26.339] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cmake-tools
