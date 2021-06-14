@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Resources\PostWithTagResource;
 use Exception;
 use Illuminate\Http\Request;
-use App\Models\postWithTag;
+use App\Models\PostWithTag;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;
 
@@ -47,17 +47,15 @@ class PostWithTagController extends Controller
     {
         try {
 
-            $data = $request->all();
-            foreach ($data['tag_id'] as $tags) {
                 $postWithTag = new postWithTag();
-                $postWithTag->post_id = $request->post_id;
-                $postWithTag->tag_id = $request->$tags;
+                $postWithTag->post_id = (int)$request->post_id;
+                $postWithTag->tag_id = (int)$request->tag_id;
                 $postWithTag->save();
-                return Response()->json([
-                    'status' => 'created',
-                    'data' => $postWithTag,
-                ], 201);
-            }
+
+            return Response()->json([
+                'status' => 'created',
+                'data' => $postWithTag,
+            ], 201);
 
         } catch (Exception $e) {
             return Response()->json([

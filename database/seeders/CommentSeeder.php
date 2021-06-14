@@ -57,6 +57,7 @@ class CommentSeeder extends Seeder
 
         DB::table('comments')->insert([
             'content' => 'Yo ohayo watatshimo furansu ni sumu ;) ',
+            'imgUrl' => 'https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/d/0/9/d09c24867c_50170596_erosion-soulevement-alpes.jpg',
             'post_id' => 3,
             'user_id' => 2,
             'created_at' => now(),

@@ -62,7 +62,7 @@ class PostController extends Controller
 
             return Response()->json([
                 'status' => 'created',
-                'data' => null,
+                'data' => $post,
             ], 201);
         } catch (Exception $e) {
             return Response()->json([

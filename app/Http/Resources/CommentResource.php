@@ -23,7 +23,8 @@ class CommentResource extends JsonResource
            'post_id' => $this->post_id,
            'user_id' => $this->user_id,
            'user' => DB::table('users')->where('id', $this->user_id)->first(),
-           'is_validated' => $this->is_validated
+           'is_validated' => $this->is_validated,
+           'imgUrl' => $this->imgUrl,
        ];
     }
 }
