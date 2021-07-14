@@ -11,6 +11,7 @@ class Comment extends Model
     protected $table = "comments";
     protected $fillable = [
         'content',
+        'imgUrl',
         'is_validated'
     ];
 }

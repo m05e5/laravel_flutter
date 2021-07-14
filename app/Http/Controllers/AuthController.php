@@ -32,6 +32,7 @@ class AuthController extends Controller
         $user->matricule = $request->matricule;
         $user->password = bcrypt($request->password) ;
         $user->filiere = $request->filiere;
+        $user->level = $request->level;
         $user->save();
 
 
@@ -64,7 +65,7 @@ class AuthController extends Controller
             'status' => 'ok',
             'token' => $jwt_token,
             'data' => Auth::user()
-        ]); 
+        ]);
     }
 
     public function logout(Request $request)

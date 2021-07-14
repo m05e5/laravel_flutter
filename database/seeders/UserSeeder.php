@@ -17,7 +17,7 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->insert([
             'name' => 'Caleb Moses',
-            'imgProfile' => 'https://i.unimedias.fr/2015/01/19/Kristina-9-ans-la-plus-belle-petite-fille-du-monde.jpg?auto=format%2Ccompress&cs=tinysrgb',
+            'imgProfile' => 'https://firebasestorage.googleapis.com/v0/b/soutenence.appspot.com/o/postImages%2F937125hg6.jpg?alt=media&token=99eb084a-7376-4808-8084-218769cf402a',
             'email' => 'calebmoses1111@gmail.com',
             'matricule' => '18i00933',
             'password' => Hash::make('12345678'),
@@ -26,15 +26,16 @@ class UserSeeder extends Seeder
             'departement_id' => 1,
             'question_asked' => 1,
             'question_answered' => 6,
+            'level' => 1,
             'created_at' => now(),
             'updated_at' => now()
         ]);
 
 
         DB::table('users')->insert([
-            'name' => 'Asuna Yuuki',
+            'name' => 'John Doe',
             'imgProfile' => 'https://cache.magicmaman.com/data/photo/w1000_ci/5y/petite-fille-qui-sourit1.jpg',
-            'email' => 'asunayuki@gmail.com',
+            'email' => 'johndoe@gmail.com',
             'matricule' => '18i00934',
             'password' => Hash::make('12345678'),
             'filiere' => 'OGA',
@@ -42,6 +43,7 @@ class UserSeeder extends Seeder
             'departement_id' => 4,
             'question_asked' => 2,
             'question_answered' => 4,
+            'Level' => 1,
             'created_at' => now(),
             'updated_at' => now()
         ]);
@@ -57,6 +59,7 @@ class UserSeeder extends Seeder
             'departement_id' => 1,
             'question_asked' => 1,
             'question_answered' => 5,
+            'Level' => 1,
             'created_at' => now(),
             'updated_at' => now()
         ]);

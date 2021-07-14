@@ -15,16 +15,8 @@ class TagSeeder extends Seeder
     public function run()
     {
         DB::table('tags')->insert([
-            'name' => 'C',
+            'name' => 'JavaScript',
             'description' => 'Its a programming language',
-            'departement_id' => 1,
-            'created_at' => now(),
-            'updated_at' => now()
-        ]);
-
-        DB::table('tags')->insert([
-            'name' => 'C#',
-            'description' => 'Its a programming language mostly used for games',
             'departement_id' => 1,
             'created_at' => now(),
             'updated_at' => now()

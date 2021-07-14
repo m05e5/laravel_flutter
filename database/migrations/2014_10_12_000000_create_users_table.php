@@ -25,6 +25,7 @@ class CreateUsersTable extends Migration
             $table->string('filiere');
             $table->integer('question_asked')->default(0);
             $table->integer('question_answered')->default(0);
+            $table->integer('level')->default(1);
             $table->unsignedBigInteger('departement_id');
             $table->foreign('departement_id')->references('id')->on('departements');
             $table->rememberToken();

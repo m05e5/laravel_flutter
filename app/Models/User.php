@@ -30,6 +30,7 @@ class User extends Authenticatable implements JWTSubject
         'imgProfile',
         'question_asked',
         'question_answered',
+        'level',
     ];
 
     /**

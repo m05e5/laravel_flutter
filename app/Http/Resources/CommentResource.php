@@ -20,6 +20,7 @@ class CommentResource extends JsonResource
        return [
            'id' => $this->id,
            'content' => $this->content,
+           'imgUrl' => $this->imgUrl,
            'post_id' => $this->post_id,
            'user_id' => $this->user_id,
            'user' => DB::table('users')->where('id', $this->user_id)->first(),

@@ -59,6 +59,7 @@ class CommentController extends Controller
         try {
             $comment = new Comment();
             $comment->user_id = Auth::id();
+            $comment->imgUrl = $request->imgUrl;
             $comment->post_id = $request->post_id;
             $comment->content = $request->content;
             $comment->save();
@@ -69,7 +70,7 @@ class CommentController extends Controller
              //-----------------------------------------------------------
             return Response()->json([
                 'status' => 'created',
-                'data' => null,
+                'data' => $comment,
             ], 201);
         } catch (Exception $e) {
             return Response()->json([
