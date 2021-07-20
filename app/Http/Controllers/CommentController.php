@@ -59,7 +59,11 @@ class CommentController extends Controller
         try {
             $comment = new Comment();
             $comment->user_id = Auth::id();
-            $comment->imgUrl = $request->imgUrl;
+            if($request->imgUrl == 'null'){
+                $comment->imgUrl = null;
+            } else {
+                $comment->imgUrl = $request->imgUrl;
+            }
             $comment->post_id = $request->post_id;
             $comment->content = $request->content;
             $comment->save();
